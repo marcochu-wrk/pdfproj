@@ -1,0 +1,10 @@
+nose
+nose-cov
+beautifulsoup4
+Flask
+docopt
+keyring
+coverage
+Mopidy-Dirble
+pymongo
+PyJwt
